@@ -1,3 +1,7 @@
+# Google Notes keep clone based on reactJS
+
+This web app is based on google-keep app. User can enter a note along with its title and add it in his collection with an add icon. User can also delete any note by pressing on delete icon.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
